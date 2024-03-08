@@ -157,7 +157,7 @@
           <div class="col-md-4 py-3 py-md-0">
 
             <div class="card">
-              <img src="./images/uk.png" alt="">
+              <img src="./images/uk.png" alt="" onclick="redirectToDetail()">
               <div class="card-body">
                 <h3>United Kingdom</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, doloribus!</p>
@@ -169,7 +169,7 @@
                   <i class="fa-solid fa-star "></i>
                 </div>
                 <h6>Price: <strong>$500</strong></h6>
-                <a href="#book">Book Now</a>
+                <a href="#" onclick="redirectToDetail()">Book Now</a>
               </div>
             </div>
 
@@ -177,7 +177,7 @@
           <div class="col-md-4 py-3 py-md-0">
 
             <div class="card">
-              <img src="./images/france.png" alt="">
+              <img src="./images/france.png" alt="" onclick="redirectToDetail()">
               <div class="card-body">
                 <h3>France</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, doloribus!</p>
@@ -189,7 +189,8 @@
                   <i class="fa-solid fa-star "></i>
                 </div>
                 <h6>Price: <strong>$500</strong></h6>
-                <a href="#book">Book Now</a>
+                
+                <a href="#" onclick="redirectToDetail()">Book Now</a>
               </div>
             </div>
 
@@ -197,7 +198,7 @@
           <div class="col-md-4 py-3 py-md-0">
 
             <div class="card">
-              <img src="./images/pakistan.png" alt="">
+              <img src="./images/pakistan.png" alt="" onclick="redirectToDetail()">
               <div class="card-body">
                 <h3>Pakistan</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, doloribus!</p>
@@ -209,7 +210,7 @@
                   <i class="fa-solid fa-star "></i>
                 </div>
                 <h6>Price: <strong>$500</strong></h6>
-                <a href="#book">Book Now</a>
+                <a href="#" onclick="redirectToDetail()">Book Now</a>
               </div>
             </div>
 
@@ -226,7 +227,7 @@
           <div class="col-md-4 py-3 py-md-0">
 
             <div class="card">
-              <img src="./images/italy.png" alt="">
+              <img src="./images/italy.png" alt="" onclick="redirectToDetail()">
               <div class="card-body">
                 <h3>Italy</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, doloribus!</p>
@@ -238,7 +239,7 @@
                   <i class="fa-solid fa-star "></i>
                 </div>
                 <h6>Price: <strong>$500</strong></h6>
-                <a href="#book">Book Now</a>
+                <a href="#" onclick="redirectToDetail()">Book Now</a>
               </div>
             </div>
 
@@ -246,7 +247,7 @@
           <div class="col-md-4 py-3 py-md-0">
 
             <div class="card">
-              <img src="./images/india.png" alt="">
+              <img src="./images/india.png" alt="" onclick="redirectToDetail()">
               <div class="card-body">
                 <h3>India</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, doloribus!</p>
@@ -258,7 +259,7 @@
                   <i class="fa-solid fa-star "></i>
                 </div>
                 <h6>Price: <strong>$500</strong></h6>
-                <a href="#book">Book Now</a>
+                <a href="#" onclick="redirectToDetail()">Book Now</a>
               </div>
             </div>
 
@@ -266,7 +267,7 @@
           <div class="col-md-4 py-3 py-md-0">
 
             <div class="card">
-              <img src="./images/us.png" alt="">
+              <img src="./images/us.png" alt="" onclick="redirectToDetail()">
               <div class="card-body">
                 <h3>United States</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut, doloribus!</p>
@@ -278,7 +279,7 @@
                   <i class="fa-solid fa-star "></i>
                 </div>
                 <h6>Price: <strong>$500</strong></h6>
-                <a href="#book">Book Now</a>
+                <a href="#" onclick="redirectToDetail()">Book Now</a>
               </div>
             </div>
 
@@ -519,9 +520,13 @@
           // Scroll to the packages section
           document.getElementById('packages').scrollIntoView({ behavior: 'smooth' });
       });
+
     </script>
     <script>
-      
-      </script>
+        function redirectToDetail() {
+            // Redirect to detail.html
+            window.location.href = 'detail.html';
+        }
+    </script>
 </body>
 </html>
