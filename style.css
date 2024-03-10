@@ -237,6 +237,22 @@
     color: white;
     border-radius: 5px;
 }
+
+.image-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.package-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.5s ease;
+}
+
+
 /* Section Packages End */
 
 
