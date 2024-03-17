@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Website_BookingTour.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Website_BookingTour.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\css\\product-detail.css",
+      "PackagePath": "staticwebassets\\css\\product-detail.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\background-img.png",
+      "PackagePath": "staticwebassets\\images\\background-img.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\book-img.png",
+      "PackagePath": "staticwebassets\\images\\book-img.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\da-lat.png",
+      "PackagePath": "staticwebassets\\images\\da-lat.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\g1.png",
+      "PackagePath": "staticwebassets\\images\\g1.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\g2.png",
+      "PackagePath": "staticwebassets\\images\\g2.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\g3.png",
+      "PackagePath": "staticwebassets\\images\\g3.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\g4.png",
+      "PackagePath": "staticwebassets\\images\\g4.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\g5.png",
+      "PackagePath": "staticwebassets\\images\\g5.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\g6.png",
+      "PackagePath": "staticwebassets\\images\\g6.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\hue.png",
+      "PackagePath": "staticwebassets\\images\\hue.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\india.png",
+      "PackagePath": "staticwebassets\\images\\india.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\italy.png",
+      "PackagePath": "staticwebassets\\images\\italy.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\images\\logo1.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\logomaybay.png",
+      "PackagePath": "staticwebassets\\images\\logomaybay.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\maybay.jpg",
+      "PackagePath": "staticwebassets\\images\\maybay.jpg"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\nha-trang.png",
+      "PackagePath": "staticwebassets\\images\\nha-trang.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\pakistan.png",
+      "PackagePath": "staticwebassets\\images\\pakistan.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\phu-quoc.png",
+      "PackagePath": "staticwebassets\\images\\phu-quoc.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\sa-pa.png",
+      "PackagePath": "staticwebassets\\images\\sa-pa.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\uk.png",
+      "PackagePath": "staticwebassets\\images\\uk.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\us.png",
+      "PackagePath": "staticwebassets\\images\\us.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\images\\vung-tau.png",
+      "PackagePath": "staticwebassets\\images\\vung-tau.png"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\My_Website\\Travel Tour Website\\Website_BookingTour\\Website_BookingTour\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Website_BookingTour.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Website_BookingTour.props",
+      "PackagePath": "build\\Website_BookingTour.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Website_BookingTour.props",
+      "PackagePath": "buildMultiTargeting\\Website_BookingTour.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Website_BookingTour.props",
+      "PackagePath": "buildTransitive\\Website_BookingTour.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
